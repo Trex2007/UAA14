@@ -1,0 +1,14 @@
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\bin\Debug\net6.0\progPoFirst.exe
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\bin\Debug\net6.0\progPoFirst.deps.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\bin\Debug\net6.0\progPoFirst.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\bin\Debug\net6.0\progPoFirst.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\bin\Debug\net6.0\progPoFirst.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\progPoFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\progPoFirst.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\progPoFirst.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\progPoFirst.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\progPoFirst.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\refint\progPoFirst.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\progPoFirst.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\progPoFirst.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\progPoFirst\obj\Debug\net6.0\ref\progPoFirst.dll

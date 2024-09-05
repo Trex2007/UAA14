@@ -1,0 +1,42 @@
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.exe
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.deps.json
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.runtimeconfig.json
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.runtimeconfig.dev.json
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.dll
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.pdb
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.AssemblyInfo.cs
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.dll
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.pdb
+\\Mac\Home\Desktop\COURS_TI\UAA NOUVEAU PROGRAMME\UAA14 POO\ACT00_REVISION\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.exe
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.deps.json
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.runtimeconfig.json
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.runtimeconfig.dev.json
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.dll
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.pdb
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.csproj.AssemblyReference.cache
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.dll
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.pdb
+C:\Users\TheRex\Desktop\ACT00_REVISION_VersionBASE\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.exe
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.deps.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.runtimeconfig.dev.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\bin\Debug\netcoreapp3.1\ACT00_REVISION.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.csproj.AssemblyReference.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\AdrienB-6TI-Revisions1\ACT00_REVISION\obj\Debug\netcoreapp3.1\ACT00_REVISION.genruntimeconfig.cache
