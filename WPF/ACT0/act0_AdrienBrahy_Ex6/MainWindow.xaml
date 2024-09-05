@@ -1,0 +1,18 @@
+﻿<Window x:Class="act0_AdrienBrahy_Ex6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:act0_AdrienBrahy_Ex6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox Width="200" Height="100">
+            <TextBlock Text="Ophelia" Foreground="#FF0000"/>
+            <TextBlock Text="Sunset Lover" Foreground="#2626FF"/>
+            <TextBlock Text="Jamais su" Foreground="#12A5A5"/>
+            <TextBlock Text="Mockingbird" Foreground="#89A2F3"/>
+            <TextBlock Text="Life Could Be A Dream" Foreground="#1A2A1A"/>
+        </ListBox>
+    </Grid>
+</Window>
