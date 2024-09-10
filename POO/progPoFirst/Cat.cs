@@ -14,26 +14,106 @@ namespace progPoFirst
         private double _height;
         private string _race;
         private bool _puce;
+        private bool _mort;
 
-        public Cat(short age, string name, double weight, double height, string race, bool puce) {
-            _age = age;
-            _name = name;
-            _weight = weight;
-            _height = height;
-            _race = race;
-            _puce = puce;
+        public Cat(short age, string name, double weight, double height, string race, bool puce, bool mort)
+        {
+            this._age = age;
+            this._name = name;
+            this._weight = weight;
+            this._height = height;
+            this._race = race;
+            this._puce = puce;
+            this._mort = mort;
         }
-        public string Manger(){ return "QUELLE BON STEAK !"; }
-        public string Boire() { return "QUELLE BONNE EAU !"; }
+        public string Manger(){
+            if (this._mort == true)
+            {
+                return "O NON JE NE PEUX MANGER JE SUIS MORT A " + this._age + " ANS !";
+            }
+            else
+            {
+                if (this._weight > 17 || this._weight < 2)
+                {
+                    this._mort = true;
+                    return "OH NON JE SUIS MORT OBESE !";
+                }
+                else
+                {
+                    this._weight++;
+                    return "QUELLE BON STEAK !";
+                }
+            }
+        }
+        public string Boire() {
+            if (this._mort == true)
+            {
+                return "O NON JE NE PEUX BOIRE JE SUIS MORT A " + this._age + " ANS !";
+            }
+            else
+            {
+                if (this._weight > 17 || this._weight < 2)
+                {
+                    this._mort = true;
+                    return "OH NON JE SUIS MORT OBESE !";
+                }
+                else
+                {
+                    this._weight++;
+                    return "QUELLE BONNE EAU !";
+                }
+            }
+            
+        }
         public string Viellir() {
-            _age++;
-            return "O NON JE VIELLI !\nJ'ai maintenant "+_age+" ans !"; 
+            if(this._mort == true){
+                return "O NON JE NE VIELLI PLUS SUIS MORT A " + this._age + " ANS !";
+            } else if (this._weight > 17 || this._weight < 2)
+            {
+                this._mort = true;
+                return "OH NON JE SUIS MORT OBESE !";
+            } else if (this._age > 17)
+            {
+                this._mort = true;
+                return "OH NON JE SUIS MORT DE VIELLEISSE !";
+            }
+            else
+            {
+                this._age++;
+                return "O NON JE VIELLI !\nJ'AI MAINTENANT " + this._age + " ANS !";
+            }
         }
-        public string SeBlesse() { return "O NON JE SUIS BLESSE !"; }
-        public string Mort() { return "X.X"; }
+        public string SeBlesse() {
+            if (this._mort == true)
+            {
+                return "O NON JE NE PEUX ME BLESSER JE SUIS MORT A " + this._age + " ANS !";
+            }
+            else
+            {
+                this._weight--;
+                return "O NON JE ME BLESSE !";
+            }
+        }
+        public string Mort() { 
+            this._mort = true;
+            return "JE SUIS MORT A " + this._age + " ANS !";
+        }
         public string InfosCat()
         {
-            return "Nom : " + _name + "\nAge : " + _age + " ans\nPoid : " + _weight + " Kilo\nTaille : " + _height + " cm\nRace : " + _race +"\nPuce : " + _puce;
+            if (this._weight > 17 || this._weight < 2)
+            {
+                this._mort = true;
+            }
+            if (this._mort == false)
+            {
+                this._weight--;
+                return "Nom : " + this._name + "\nAge : " + this._age + " ans\nPoid : " + this._weight + 1 + " Kilo\nTaille : " + this._height + " cm\nRace : " + this._race + "\nPuce : " + this._puce;
+            }
+            else
+            {
+                return "Nom : " + this._name + "\nAge : " + this._age + " ans\nPoid : " + this._weight + 1 + " Kilo\nTaille : " + this._height + " cm\nRace : " + this._race + "\nPuce : " + this._puce +"\nJE SUIS MORT !";
+            }
+            
         }
     }
 }
