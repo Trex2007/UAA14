@@ -23,18 +23,22 @@
             </Grid.RowDefinitions>
             <TextBlock Grid.ColumnSpan="3" Height="70" Background="#dcb7ed" FontSize="27" LineHeight="9" TextAlignment="Center">ERREUR SYNTAX</TextBlock>
             <Button Grid.Column="4" Height="50" Width="50"  Content="C" Background="#10376" Foreground="White"></Button>
+
             <Button Grid.Row="1" Height="50" Width="50"  Content="1" Background="#bb5ee7"></Button>
             <Button Grid.Row="1" Grid.Column="1" Height="50" Width="50"  Content="2" Background="#bb5ee7"></Button>
             <Button Grid.Row="1" Grid.Column="2" Height="50" Width="50"  Content="3" Background="#bb5ee7"></Button>
             <Button Grid.Row="1" Grid.Column="3" Height="50" Width="50"  Content="+" Background="#ce8fec"></Button>
+
             <Button Grid.Row="2" Height="50" Width="50"  Content="4" Background="#bb5ee7"></Button>
             <Button Grid.Row="2" Grid.Column="1" Height="50" Width="50"  Content="5" Background="#bb5ee7"></Button>
             <Button Grid.Row="2" Grid.Column="2" Height="50" Width="50"  Content="6" Background="#bb5ee7"></Button>
             <Button Grid.Row="2" Grid.Column="3" Height="50" Width="50"  Content="-" Background="#ce8fec"></Button>
+
             <Button Grid.Row="3" Height="50" Width="50"  Content="7" Background="#bb5ee7"></Button>
             <Button Grid.Row="3" Grid.Column="1" Height="50" Width="50"  Content="8" Background="#bb5ee7"></Button>
             <Button Grid.Row="3" Grid.Column="2" Height="50" Width="50"  Content="9" Background="#bb5ee7"></Button>
             <Button Grid.Row="3" Grid.Column="3" Height="50" Width="50"  Content="/" Background="#ce8fec"></Button>
+
             <Button Grid.Row="4" Height="50" Width="50"  Content="," Background="#510376" Foreground="White"></Button>
             <Button Grid.Row="4" Grid.Column="1" Height="50" Width="50"  Content="0" Background="#bb5ee7"></Button>
             <Button Grid.Row="4" Grid.Column="2" Height="50" Width="50"  Content="*" Background="#ce8fec"></Button>
