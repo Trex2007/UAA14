@@ -1,0 +1,44 @@
+﻿<Window x:Class="act1_AdrienBrahy_Ex2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:act1_AdrienBrahy_Ex2"
+        mc:Ignorable="d"
+        Title="Adrien Brahy Ex 2 ACT 1" Height="450" Width="300">
+    <Grid Background="#8312b4" >
+        <Grid Margin="10,10,10,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.ColumnSpan="3" Height="70" Background="#dcb7ed" FontSize="27" LineHeight="9" TextAlignment="Center">ERREUR SYNTAX</TextBlock>
+            <Button Grid.Column="4" Height="50" Width="50"  Content="C" Background="#10376" Foreground="White"></Button>
+            <Button Grid.Row="1" Height="50" Width="50"  Content="1" Background="#bb5ee7"></Button>
+            <Button Grid.Row="1" Grid.Column="1" Height="50" Width="50"  Content="2" Background="#bb5ee7"></Button>
+            <Button Grid.Row="1" Grid.Column="2" Height="50" Width="50"  Content="3" Background="#bb5ee7"></Button>
+            <Button Grid.Row="1" Grid.Column="3" Height="50" Width="50"  Content="+" Background="#ce8fec"></Button>
+            <Button Grid.Row="2" Height="50" Width="50"  Content="4" Background="#bb5ee7"></Button>
+            <Button Grid.Row="2" Grid.Column="1" Height="50" Width="50"  Content="5" Background="#bb5ee7"></Button>
+            <Button Grid.Row="2" Grid.Column="2" Height="50" Width="50"  Content="6" Background="#bb5ee7"></Button>
+            <Button Grid.Row="2" Grid.Column="3" Height="50" Width="50"  Content="-" Background="#ce8fec"></Button>
+            <Button Grid.Row="3" Height="50" Width="50"  Content="7" Background="#bb5ee7"></Button>
+            <Button Grid.Row="3" Grid.Column="1" Height="50" Width="50"  Content="8" Background="#bb5ee7"></Button>
+            <Button Grid.Row="3" Grid.Column="2" Height="50" Width="50"  Content="9" Background="#bb5ee7"></Button>
+            <Button Grid.Row="3" Grid.Column="3" Height="50" Width="50"  Content="/" Background="#ce8fec"></Button>
+            <Button Grid.Row="4" Height="50" Width="50"  Content="," Background="#510376" Foreground="White"></Button>
+            <Button Grid.Row="4" Grid.Column="1" Height="50" Width="50"  Content="0" Background="#bb5ee7"></Button>
+            <Button Grid.Row="4" Grid.Column="2" Height="50" Width="50"  Content="*" Background="#ce8fec"></Button>
+            <Button Grid.Row="4" Grid.Column="3" Height="50" Width="50"  Content="=" Background="#510376" Foreground="White"></Button>
+        </Grid>
+    </Grid>
+</Window>
