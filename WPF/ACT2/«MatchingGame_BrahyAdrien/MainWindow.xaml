@@ -1,0 +1,58 @@
+﻿<Window x:Class="_MatchingGame_BrahyAdrien.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_MatchingGame_BrahyAdrien"
+        mc:Ignorable="d"
+        Title="Trouvez toutes les paires d'animaux" Height="400" Width="350">
+
+    <Grid x:Name="grdMain">
+        
+        <!-- Grid du jeux en 4x4 -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- TextBox pour mettres les emojis dans chaques cases -->
+
+        <!-- Ligne 1 -->
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Column="1" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Column="2" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Column="3" MouseDown="Mouse_Down"/>
+        
+        <!-- Ligne 2 -->
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="1" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="1" Grid.Column="1" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="1" Grid.Column="2" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="1" Grid.Column="3" MouseDown="Mouse_Down"/>
+
+        <!-- Ligne 3 -->
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="2" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="2" Grid.Column="1" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="2" Grid.Column="2" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="2" Grid.Column="3" MouseDown="Mouse_Down"/>
+
+        <!-- Ligne 4 -->
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="3" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="3" Grid.Column="1" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="3" Grid.Column="2" MouseDown="Mouse_Down"/>
+        <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" Grid.Row="3" Grid.Column="3" MouseDown="Mouse_Down"/>
+
+        <!-- Affichage du temps -->
+
+        <TextBlock x:Name="txtTemps" Grid.Row="4" Grid.ColumnSpan="4" FontSize="36" Text="Temps écoulé" VerticalAlignment="Center" HorizontalAlignment="Center" MouseDown="txtTemps_MouseDown"/>
+
+    </Grid>
+</Window>
