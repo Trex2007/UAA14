@@ -61,7 +61,7 @@ namespace act3_AdrienBrahy_Trinomes {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/act3_AdrienBrahy_Trinomes;component/pageresultat.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/act3_AdrienBrahy_Trinomes;V1.0.0.0;component/pageresultat.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\PageResultat.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
