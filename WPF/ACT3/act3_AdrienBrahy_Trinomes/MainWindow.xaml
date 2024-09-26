@@ -1,0 +1,30 @@
+﻿<Window x:Class="act3_AdrienBrahy_Trinomes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:act3_AdrienBrahy_Trinomes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="300">
+    <Grid x:Name="allGrid" Background="#FFFF00C7">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock HorizontalAlignment="Left" Text="A" VerticalAlignment="Center" FontSize="36" Margin="40,0,0,0" FontWeight="Bold"/>
+        <TextBox x:Name="TextA" Background="#FFFF008C" HorizontalAlignment="Right" VerticalAlignment="Center" Height="80" Width="180" Margin="0,0,20,0" FontSize="30" TextWrapping="Wrap"></TextBox>
+        
+        <TextBlock HorizontalAlignment="Left" Text="B" VerticalAlignment="Center" FontSize="36" Margin="40,0,0,0" FontWeight="Bold" Grid.Row="1"/>
+        <TextBox x:Name="TextB" Background="#FFFF008C" HorizontalAlignment="Right" VerticalAlignment="Center" Height="80" Width="180" Margin="0,0,20,0" FontSize="30" TextWrapping="Wrap" Grid.Row="1"></TextBox>
+
+        <TextBlock HorizontalAlignment="Left" Text="C" VerticalAlignment="Center" FontSize="36" Margin="40,0,0,0" FontWeight="Bold" Grid.Row="2"/>
+        <TextBox x:Name="TextC"  Background="#FFFF008C" HorizontalAlignment="Right" VerticalAlignment="Center" Height="80" Width="180" Margin="0,0,20,0" FontSize="30" TextWrapping="Wrap" Grid.Row="2"></TextBox>
+
+        <Button x:Name="Calcueler" Content="Calcueler" Grid.Row="4" Margin="20,30,20,30" Background="#FFA603CC" HorizontalAlignment="Left" FontSize="40" FontWeight="Bold"></Button>
+        <Button x:Name="BtnHover" Content="Hover" Grid.Row="4" Margin="20,30,20,30" Background="#FFA603CC" FontSize="20" FontWeight="Bold" HorizontalAlignment="Right" RenderTransformOrigin="2,2"></Button>
+
+    </Grid>
+</Window>
