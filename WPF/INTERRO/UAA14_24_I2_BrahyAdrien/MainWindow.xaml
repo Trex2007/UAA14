@@ -14,7 +14,9 @@
 
                 <TextBlock Text="Joueurs déjà inscrits ( de 2 à 4)" Foreground="#102540" VerticalAlignment="Top" Margin="20,70,20,20"/>
                 <ComboBox Height="30" Width="340" Margin="0,15,0,0">
-                    
+                    <ComboBoxItem>
+                        <TextBlock Text="test"></TextBlock>
+                    </ComboBoxItem>
                 </ComboBox>
 
 
