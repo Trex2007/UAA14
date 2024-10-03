@@ -8,13 +8,13 @@
         Title="ACT3_Bis_AdrienBrahy" Height="325" Width="600">
     <Grid Background="#dcb7ed" Margin="10">
         <GroupBox Header="TYPE DE LOGEMENT" FontWeight="Bold" Foreground="#561459" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="125" Margin="10,10,0,0">
-            <StackPanel>
-                <RadioButton Content="CHALET" GroupName="Logement" Margin="5" Foreground="#961b9c"/>
-                <RadioButton Content="TENTE" GroupName="Logement" Margin="5" Foreground="#961b9c"/>
+            <StackPanel HorizontalAlignment="Center">
+                <RadioButton x:Name="chxChalet" Content="CHALET" GroupName="Logement" Margin="5,20" Foreground="#961b9c" />
+                <RadioButton x:Name="chxTente" Content="TENTE" GroupName="Logement" Margin="5,10" Foreground="#961b9c" />
             </StackPanel>
         </GroupBox>
 
-        <CheckBox Name="Reservation" Content="RESERVATION" FontWeight="Bold" Foreground="#961b9c" Margin="25,140,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <CheckBox x:Name="Reservation" Content="RESERVATION" FontWeight="Bold" Foreground="#961b9c" Margin="25,150,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
 
         <GroupBox Header="CARACTERISTIQUES DU SEJOUR" FontWeight="Bold" Foreground="#561459" HorizontalAlignment="Right" VerticalAlignment="Top" Width="400" Height="150" Margin="0,10,10,0">
             <Grid>
@@ -30,29 +30,27 @@
                 </Grid.ColumnDefinitions>
 
                 <TextBlock Text="Nbre de Personnes (entre 1 et 6):" Foreground="#561459" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Margin="5"/>
-                <TextBox Name="nbrePersonnes" Grid.Row="0" Grid.Column="1" Margin="5" Foreground="#961b9c"/>
+                <TextBox x:Name="nbrePersonnes" Grid.Row="0" Grid.Column="1" Margin="5" Foreground="#961b9c"/>
 
                 <TextBlock Text="Date d'arrivée :" Foreground="#561459" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Margin="5"/>
-                <DatePicker Name="dateArrivee" Grid.Row="1" Grid.Column="1" Margin="5" Foreground="#961b9c"/>
+                <DatePicker x:Name="dateArrivee" Grid.Row="1" Grid.Column="1" Margin="5" Foreground="#961b9c"/>
 
                 <TextBlock Text="Date de sortie :" Foreground="#561459" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="5"/>
-                <DatePicker Name="dateSortie" Grid.Row="2" Grid.Column="1" Margin="5" Foreground="#961b9c"/>
+                <DatePicker x:Name="dateSortie" Grid.Row="2" Grid.Column="1" Margin="5" Foreground="#961b9c"/>
 
-                <Button Name="btnCalculerDuree" Content="DUREE SORTIE (Durée en semaines)" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="5" Foreground="#961b9c"/>
+                <Button x:Name="btnCalculerDuree" Content="DUREE SORTIE (Durée en semaines)" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="5" Foreground="#961b9c"/>
             </Grid>
         </GroupBox>
 
         <GroupBox Header="RESULTATS" FontWeight="Bold" Foreground="#561459" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="350" Height="100" Margin="10,0,0,10">
-            <StackPanel>
-                <TextBlock Text="Prix à Payer :" Foreground="#561459" Margin="5" Width="150" HorizontalAlignment="Left"/>
-                <TextBlock Name="prixAPayer" Foreground="#561459" Margin="5" Width="150" HorizontalAlignment="Right"/>
-                <TextBlock Text="Nombre de semaines :" Foreground="#561459" Margin="5" Width="175" HorizontalAlignment="Left"/>
-                <TextBlock Name="nbSemaines" Foreground="#561459" Margin="5" Width="150" HorizontalAlignment="Right"/>
-            </StackPanel>
+            <Grid>
+                <TextBlock x:Name="prixAPayer" Text="Prix à Payer :" Foreground="#561459" Margin="5,25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBlock x:Name="nbSemaines" Text="Nombre de semaines :" Foreground="#561459" Margin="5" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+            </Grid>
         </GroupBox>
 
-        <Button Name="btnCalculer" Content="CALCULER" Width="200" Height="40" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,60" Foreground="#961b9c"/>
-        <Button Name="btnInit" Content="INIT" Width="200" Height="40" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10" Foreground="#961b9c"/>
+        <Button x:Name="btnCalculer" Content="CALCULER" Width="200" Height="40" FontWeight="Bold" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,60" Foreground="#961b9c"/>
+        <Button x:Name="btnInit" Content="INIT" Width="200" Height="40" FontWeight="Bold" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10" Foreground="#961b9c"/>
 
     </Grid>
 </Window>
