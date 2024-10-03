@@ -1,0 +1,9 @@
+﻿<Application x:Class="UAA14_24_I2_BrahyAdrien.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:UAA14_24_I2_BrahyAdrien"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,15 @@
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\bin\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.exe
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\bin\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.deps.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\bin\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\bin\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\bin\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.sourcelink.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\refint\ACT_2_POO_ExSimples_Cercle.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ACT_2_POO_ExSimples_Cercle.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_2_POO_ExSimples\ACT_2_POO_ExSimples_Cercle\obj\Debug\net6.0\ref\ACT_2_POO_ExSimples_Cercle.dll

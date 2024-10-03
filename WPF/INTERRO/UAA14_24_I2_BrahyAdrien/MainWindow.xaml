@@ -1,0 +1,53 @@
+﻿<Window x:Class="UAA14_24_I2_BrahyAdrien.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UAA14_24_I2_BrahyAdrien"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#F2AB27" Margin="10">
+        <GroupBox Header="Paramétrage du jeu et des joueurs" FontWeight="Bold" FontSize="22" Foreground="#102540" HorizontalAlignment="Left" VerticalAlignment="Top" Width="370" Height="270" Margin="10,10,0,0">
+            <Grid>
+                <TextBlock Text="Nbre de Dés (de 6 à 8)" Foreground="#102540" VerticalAlignment="Top" Margin="20"/>
+                <TextBox Name="nbrDe" Margin="0, 20, 20 ,5" Foreground="#102540" Width="40px" Height="30" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+
+                <TextBlock Text="Joueurs déjà inscrits ( de 2 à 4)" Foreground="#102540" VerticalAlignment="Top" Margin="20,70,20,20"/>
+                <ComboBox Height="30" Width="340" Margin="0,15,0,0">
+                    
+                </ComboBox>
+
+
+                <TextBlock Text="Pseudo" Foreground="#102540" VerticalAlignment="Top" Margin="20, 155, 0 ,0"/>
+                <TextBox Name="pseudo" Margin="0, 155, 50 ,5" Foreground="#102540" Width="200px" Height="30" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+                
+                <Button Name="btnAjouter" Content="Ajouter" Width="340" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10" Background="#F2E963" Foreground="#D95829"/>
+            </Grid>
+        </GroupBox>
+
+        <TextBlock Text="C'est au tour de ..." FontWeight="Bold" FontSize="22" Foreground="#102540" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,0,200,20"/>
+        <Button Name="btnLanceDes" FontSize="22" FontWeight="Bold" Content="LANCER LES DÉS" Width="375" Height="30" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,35,10,0" Background="#F2E963" Foreground="#D95829"/>
+        <GroupBox Header="Résultats" FontWeight="Bold" Foreground="#102540" FontSize="22" HorizontalAlignment="Right" VerticalAlignment="Top" Width="370" Height="150" Margin="0,70,10,0">
+            <StackPanel>
+                <TextBlock Text="Jet : (1)(2)(3)(4)(5)(6)..."/>
+                <TextBlock Text="Points gagnés : ..." Margin="0,20,0,0"/>
+                <TextBlock Text="Total des points : ..." Margin="0,0,0,0"/>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="" FontWeight="Bold" FontSize="22" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="370" Height="120" Margin="10,0,0,10">
+            <StackPanel>
+                <Button Name="btnStart" Content="Démarrer le jeu" Width="340" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,10,10,0" Background="#F2E963" Foreground="#D95829"/>
+                <Button Name="btnEnd" Content="Stopper le jeu" Width="340" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10" Background="#F2E963" Foreground="#D95829"/>
+            </StackPanel>
+        </GroupBox>
+
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,10">
+            <TextBlock Text="'Pseudo' tu peux relancer 3 dés ! : ." FontSize="22" FontWeight="Bold" Foreground="#102540"/>
+            <CheckBox Name="restart" Content="Relancer !" FontSize="22" FontWeight="Bold" Foreground="#000000" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,10,0,0"/>
+            <Button Name="NextPlay" Content="Joueur Suivant" Width="360" Height="30" FontSize="22" FontWeight="Bold" HorizontalAlignment="Right" VerticalAlignment="Bottom"  Margin="0,10,0,0" Background="#F2E963" Foreground="#D95829"/>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>
