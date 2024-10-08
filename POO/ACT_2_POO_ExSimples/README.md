@@ -1,1 +1,1 @@
-# L'exercice "cerce" contient *TOUS* les exercices
+# L'exercice "cercle" contient *TOUS* les exercices
