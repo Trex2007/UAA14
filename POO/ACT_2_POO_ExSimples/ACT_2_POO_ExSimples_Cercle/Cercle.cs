@@ -13,7 +13,7 @@ namespace ACT_2_POO_ExSimples_Cercle
 
         public Cercle(double rayon)
         {
-            this._rayon = rayon;
+            _rayon = rayon;
         }
         public double Rayon
         {
@@ -28,11 +28,11 @@ namespace ACT_2_POO_ExSimples_Cercle
         }
         public Double CalculeAire()
         {
-            return Math.PI * (this._rayon * this._rayon);
+            return Math.PI * (_rayon * _rayon);
         }
         public Double CalculePermimetre()
         {
-            return (2 * Math.PI) * this._rayon;
+            return (2 * Math.PI) * _rayon;
         }
     }
 }

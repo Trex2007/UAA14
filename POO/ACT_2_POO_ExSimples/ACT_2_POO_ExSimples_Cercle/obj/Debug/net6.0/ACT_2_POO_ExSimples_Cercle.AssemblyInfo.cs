@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACT_2_POO_ExSimples_Cercle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+729c9d1c0e0c2d48f0d53007760bcee6f14aefb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5376f1a5b5782122fa31be32002ccefbb65c680")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACT_2_POO_ExSimples_Cercle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACT_2_POO_ExSimples_Cercle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
