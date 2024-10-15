@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I2P624_BrahyAdrien/1.0.0": {
+        "runtime": {
+          "I2P624_BrahyAdrien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I2P624_BrahyAdrien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

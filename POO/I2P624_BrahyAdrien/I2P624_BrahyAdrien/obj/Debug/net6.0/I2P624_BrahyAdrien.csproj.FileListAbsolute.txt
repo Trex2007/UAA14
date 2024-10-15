@@ -1,0 +1,15 @@
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\bin\Debug\net6.0\I2P624_BrahyAdrien.exe
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\bin\Debug\net6.0\I2P624_BrahyAdrien.deps.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\bin\Debug\net6.0\I2P624_BrahyAdrien.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\bin\Debug\net6.0\I2P624_BrahyAdrien.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\bin\Debug\net6.0\I2P624_BrahyAdrien.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.sourcelink.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\refint\I2P624_BrahyAdrien.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\I2P624_BrahyAdrien.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I2P624_BrahyAdrien\I2P624_BrahyAdrien\obj\Debug\net6.0\ref\I2P624_BrahyAdrien.dll

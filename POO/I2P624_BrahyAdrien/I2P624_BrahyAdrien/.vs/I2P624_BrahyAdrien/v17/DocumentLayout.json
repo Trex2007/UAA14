@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I2P624_BrahyAdrien\\I2P624_BrahyAdrien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658E0D21-2D43-4454-AAB5-995A6E268CB8}|I2P624_BrahyAdrien.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\i2p624_brahyadrien\\i2p624_brahyadrien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E0D21-2D43-4454-AAB5-995A6E268CB8}|I2P624_BrahyAdrien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E0D21-2D43-4454-AAB5-995A6E268CB8}|I2P624_BrahyAdrien.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\i2p624_brahyadrien\\i2p624_brahyadrien\\feudesignalisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E0D21-2D43-4454-AAB5-995A6E268CB8}|I2P624_BrahyAdrien.csproj|solutionrelative:feudesignalisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I2P624_BrahyAdrien\\I2P624_BrahyAdrien\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I2P624_BrahyAdrien\\I2P624_BrahyAdrien\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:31:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeuDeSignalisation.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I2P624_BrahyAdrien\\I2P624_BrahyAdrien\\FeuDeSignalisation.cs",
+              "RelativeDocumentMoniker": "FeuDeSignalisation.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I2P624_BrahyAdrien\\I2P624_BrahyAdrien\\FeuDeSignalisation.cs",
+              "RelativeToolTip": "FeuDeSignalisation.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwDkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:32:03.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
