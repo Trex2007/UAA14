@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACT_3BIS_AdrienB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36f9a549deb80905ee1ed58f753b436ed35a1c8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACT_3BIS_AdrienB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACT_3BIS_AdrienB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

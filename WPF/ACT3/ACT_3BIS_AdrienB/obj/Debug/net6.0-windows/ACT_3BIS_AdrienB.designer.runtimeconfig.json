@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\TheRex\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\TheRex\\.nuget\\packages",
+      "C:\\Users\\Trex_r4Kids\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Trex_r4Kids\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
