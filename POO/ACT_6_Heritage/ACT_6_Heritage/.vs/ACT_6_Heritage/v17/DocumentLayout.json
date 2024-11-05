@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_6_heritage\\act_6_heritage\\class\\velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|solutionrelative:class\\velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_6_heritage\\act_6_heritage\\class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|solutionrelative:class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_6_heritage\\act_6_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_6_heritage\\act_6_heritage\\class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B780C0DC-0269-427A-9961-BC8E40D0E13D}|ACT_6_Heritage.csproj|solutionrelative:class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:03:15.481Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Class\\Vehicule.cs",
+              "RelativeDocumentMoniker": "Class\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Class\\Vehicule.cs",
+              "RelativeToolTip": "Class\\Vehicule.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:12:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Class\\Voiture.cs",
+              "RelativeDocumentMoniker": "Class\\Voiture.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Class\\Voiture.cs",
+              "RelativeToolTip": "Class\\Voiture.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:12:15.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Velo.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Class\\Velo.cs",
+              "RelativeDocumentMoniker": "Class\\Velo.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage\\Class\\Velo.cs",
+              "RelativeToolTip": "Class\\Velo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:12:23.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
