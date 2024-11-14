@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "act5_TestMultiPage_AdrienBrahy/1.0.0": {
+        "runtime": {
+          "act5_TestMultiPage_AdrienBrahy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "act5_TestMultiPage_AdrienBrahy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
