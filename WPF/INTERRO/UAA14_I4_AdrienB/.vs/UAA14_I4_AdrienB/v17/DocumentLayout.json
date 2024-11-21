@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TheRex\\Desktop\\UAA14_I4_AdrienBrahy\\UAA14_I4_AdrienB\\",
+  "WorkspaceRootPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\WPF\\INTERRO\\UAA14_I4_AdrienB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAD64E3C-3549-4797-984D-3C8450BC5C65}|UAA14_I4_AdrienB.csproj|c:\\users\\therex\\desktop\\uaa14_i4_adrienbrahy\\uaa14_i4_adrienb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAD64E3C-3549-4797-984D-3C8450BC5C65}|UAA14_I4_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\wpf\\interro\\uaa14_i4_adrienb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD64E3C-3549-4797-984D-3C8450BC5C65}|UAA14_I4_AdrienB.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAD64E3C-3549-4797-984D-3C8450BC5C65}|UAA14_I4_AdrienB.csproj|c:\\users\\therex\\desktop\\uaa14_i4_adrienbrahy\\uaa14_i4_adrienb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FAD64E3C-3549-4797-984D-3C8450BC5C65}|UAA14_I4_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\wpf\\interro\\uaa14_i4_adrienb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FAD64E3C-3549-4797-984D-3C8450BC5C65}|UAA14_I4_AdrienB.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\UAA14_I4_AdrienBrahy\\UAA14_I4_AdrienB\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\WPF\\INTERRO\\UAA14_I4_AdrienB\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\TheRex\\Desktop\\UAA14_I4_AdrienBrahy\\UAA14_I4_AdrienB\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\WPF\\INTERRO\\UAA14_I4_AdrienB\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-14T11:48:53.831Z",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\UAA14_I4_AdrienBrahy\\UAA14_I4_AdrienB\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\WPF\\INTERRO\\UAA14_I4_AdrienB\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\TheRex\\Desktop\\UAA14_I4_AdrienBrahy\\UAA14_I4_AdrienB\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\WPF\\INTERRO\\UAA14_I4_AdrienB\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFUAAAAsAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T11:48:51.873Z",
               "EditorCaption": ""

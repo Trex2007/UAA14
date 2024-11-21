@@ -1,0 +1,9 @@
+﻿<Application x:Class="act4_creationDynamique_2_AdrienB.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:act4_creationDynamique_2_AdrienB"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

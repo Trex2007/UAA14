@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("«MatchingGame_BrahyAdrien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f26b453e463d28405f8460dd9feda668b0074133")]
 [assembly: System.Reflection.AssemblyProductAttribute("«MatchingGame_BrahyAdrien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("«MatchingGame_BrahyAdrien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
