@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "act4_creationDynamique_AdrienB/1.0.0": {
+        "runtime": {
+          "act4_creationDynamique_AdrienB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "act4_creationDynamique_AdrienB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

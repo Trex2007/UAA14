@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "act4_creationDynamique_AdrienB", "act4_creationDynamique_AdrienB.csproj", "{60F0C2DB-AA29-4C69-9E27-7B51E774E419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F0C2DB-AA29-4C69-9E27-7B51E774E419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F0C2DB-AA29-4C69-9E27-7B51E774E419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F0C2DB-AA29-4C69-9E27-7B51E774E419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F0C2DB-AA29-4C69-9E27-7B51E774E419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7207E59-CD15-4993-A139-AF3E0E9620A9}
+	EndGlobalSection
+EndGlobal
