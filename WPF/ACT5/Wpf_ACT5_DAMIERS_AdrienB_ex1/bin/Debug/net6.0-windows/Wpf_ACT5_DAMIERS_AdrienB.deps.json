@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wpf_ACT5_DAMIERS_AdrienB/1.0.0": {
+        "runtime": {
+          "Wpf_ACT5_DAMIERS_AdrienB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpf_ACT5_DAMIERS_AdrienB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
