@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CE_UAA14WPF_Dec24_AdrienBrahy/1.0.0": {
+        "runtime": {
+          "CE_UAA14WPF_Dec24_AdrienBrahy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CE_UAA14WPF_Dec24_AdrienBrahy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

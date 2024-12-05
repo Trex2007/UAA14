@@ -1,0 +1,9 @@
+﻿<Application x:Class="CE_UAA14WPF_Dec24_AdrienBrahy.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CE_UAA14WPF_Dec24_AdrienBrahy"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

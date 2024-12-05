@@ -1,0 +1,55 @@
+﻿<Window x:Class="CE_UAA14WPF_Dec24_AdrienBrahy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CE_UAA14WPF_Dec24_AdrienBrahy"
+        mc:Ignorable="d"
+        Title="CE_UAA14WPF_Dec24_AdrienBrahy" Height="1000" Width="1200">
+    <Grid Background="#EBD9B4">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="VERIFIONS VOS CONNAISSANCES en WPF !" Grid.ColumnSpan="2" Foreground="#638889" VerticalAlignment="center" TextAlignment="Center" FontSize="34" FontWeight="Bold"/>
+
+        <Grid x:Name="ContentGame" Grid.Row="1"></Grid>
+        
+        <GroupBox Background="#9DBC98" Grid.Row="1" Grid.Column="1" Header="Paramétrage" FontWeight="Bold" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Top" >
+            <StackPanel>
+                <GroupBox Header="Choix de la disposition" FontWeight="Bold" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10px, 10px, 10px, 10px">
+                    <StackPanel>
+                        <StackPanel>
+                            <RadioButton Click="RadioButt" GroupName="disposition" x:Name="optSolitaire" IsChecked="True" Margin="5,10,5,10">Solitaire</RadioButton>
+                            <RadioButton Click="RadioButt" GroupName="disposition" x:Name="optMarelle" Margin="5,10,5,10">Marelle</RadioButton>
+                            <RadioButton Click="RadioButt" GroupName="disposition" x:Name="optBande" Margin="5,10,5,10">Une Bande Latérale</RadioButton>
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox x:Name="BandeForm" Visibility="Hidden" Header="Taille du plateau" FontWeight="Bold" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10px, 10px, 10px, 10px">
+                    <StackPanel>
+                        <WrapPanel Margin="5,10,5,10">
+                            <TextBlock Text="Nbre de Lignes" TextAlignment="Left" FontSize="22" FontWeight="Bold"/>
+                            <TextBox x:Name="NbreLignes" Width="35" Margin="40,0,0,10"/>
+                        </WrapPanel>
+                        <WrapPanel Margin="5,0,5,10">
+                            <TextBlock Text="Nbre de Colonnes" TextAlignment="Left" FontSize="22" FontWeight="Bold"/>
+                            <TextBox x:Name="NbreColonnes" Width="35" Margin="10,0,0,10"/>
+                        </WrapPanel>
+                    </StackPanel>
+                </GroupBox>
+                <Button Content="VALIDER" Height="50" Click="btnCalculer_Click" />
+                <Button Content="Reset" Height="50" Click="btnReset_Click" />
+            </StackPanel>
+        </GroupBox>
+
+        <TextBlock x:Name="ErrorText" Text="Test WPF 6T 2024" Grid.Row="2" Grid.ColumnSpan="2" Foreground="DarkRed" VerticalAlignment="center" TextAlignment="Center" FontSize="30" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
