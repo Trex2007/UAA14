@@ -1,0 +1,14 @@
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\bin\Debug\net6.0\ACT6_HERITAGE_2.exe
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\bin\Debug\net6.0\ACT6_HERITAGE_2.deps.json
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\bin\Debug\net6.0\ACT6_HERITAGE_2.runtimeconfig.json
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\bin\Debug\net6.0\ACT6_HERITAGE_2.dll
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\bin\Debug\net6.0\ACT6_HERITAGE_2.pdb
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ACT6_HERITAGE_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ACT6_HERITAGE_2.AssemblyInfoInputs.cache
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ACT6_HERITAGE_2.AssemblyInfo.cs
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ACT6_HERITAGE_2.csproj.CoreCompileInputs.cache
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ACT6_HERITAGE_2.dll
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\refint\ACT6_HERITAGE_2.dll
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ACT6_HERITAGE_2.pdb
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ACT6_HERITAGE_2.genruntimeconfig.cache
+C:\Users\Trex_r4Kids\Desktop\ACT6\ACT6_HERITAGE_2\obj\Debug\net6.0\ref\ACT6_HERITAGE_2.dll
