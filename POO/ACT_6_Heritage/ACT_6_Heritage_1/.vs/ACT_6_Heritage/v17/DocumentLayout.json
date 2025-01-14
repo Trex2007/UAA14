@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage\\ACT_6_Heritage_1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T10:03:15.481Z",
               "IsPinned": true,
@@ -52,8 +52,7 @@
               "RelativeToolTip": "Class\\Vehicule.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAYwCsAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:12:02.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T10:12:02.689Z"
             },
             {
               "$type": "Document",
@@ -65,8 +64,7 @@
               "RelativeToolTip": "Class\\Voiture.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:12:15.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T10:12:15.394Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "Class\\Velo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:12:23.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T10:12:23.677Z"
             }
           ]
         }

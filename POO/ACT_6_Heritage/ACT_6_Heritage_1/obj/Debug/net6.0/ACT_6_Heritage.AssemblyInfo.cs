@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACT_6_Heritage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d7db69b0fe4573d09cc9469e16f5844afb3419")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07720656abb7bcb8faeb292b05e75a36b1d04416")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACT_6_Heritage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACT_6_Heritage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

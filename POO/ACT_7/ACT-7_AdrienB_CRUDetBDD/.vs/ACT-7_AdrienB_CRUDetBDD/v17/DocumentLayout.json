@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11983429-B8DE-481C-8F6B-A370B72196FF}|ACT-7_AdrienB_CRUDetBDD.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_7\\act-7_adrienb_crudetbdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11983429-B8DE-481C-8F6B-A370B72196FF}|ACT-7_AdrienB_CRUDetBDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11983429-B8DE-481C-8F6B-A370B72196FF}|ACT-7_AdrienB_CRUDetBDD.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_7\\act-7_adrienb_crudetbdd\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11983429-B8DE-481C-8F6B-A370B72196FF}|ACT-7_AdrienB_CRUDetBDD.csproj|solutionrelative:method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_7\\ACT-7_AdrienB_CRUDetBDD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAwIsAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T09:48:40.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "method.cs",
-              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_7\\ACT-7_AdrienB_CRUDetBDD\\method.cs",
-              "RelativeDocumentMoniker": "method.cs",
-              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_7\\ACT-7_AdrienB_CRUDetBDD\\method.cs",
-              "RelativeToolTip": "method.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAAALoAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:51:05.691Z",
               "EditorCaption": ""
             }
           ]

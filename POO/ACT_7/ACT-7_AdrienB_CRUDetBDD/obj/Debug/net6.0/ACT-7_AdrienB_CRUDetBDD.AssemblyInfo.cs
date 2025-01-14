@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACT-7_AdrienB_CRUDetBDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44757be6b38ec535d468e229602d0a11c5d92541")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07720656abb7bcb8faeb292b05e75a36b1d04416")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACT-7_AdrienB_CRUDetBDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACT-7_AdrienB_CRUDetBDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\bin\Debug\net6.0\ACT10_AdrienB_classesLiee.exe
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\bin\Debug\net6.0\ACT10_AdrienB_classesLiee.deps.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\bin\Debug\net6.0\ACT10_AdrienB_classesLiee.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\bin\Debug\net6.0\ACT10_AdrienB_classesLiee.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\bin\Debug\net6.0\ACT10_AdrienB_classesLiee.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.sourcelink.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\refint\ACT10_AdrienB_classesLiee.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ACT10_AdrienB_classesLiee.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_10\classes_liees\ACT10_AdrienB_classesLiee\obj\Debug\net6.0\ref\ACT10_AdrienB_classesLiee.dll

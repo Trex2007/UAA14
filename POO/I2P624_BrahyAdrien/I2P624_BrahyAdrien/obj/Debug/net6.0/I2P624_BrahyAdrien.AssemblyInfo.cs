@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("I2P624_BrahyAdrien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e4155e702c5ad11f8f5c2febc364bd5a2f26c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07720656abb7bcb8faeb292b05e75a36b1d04416")]
 [assembly: System.Reflection.AssemblyProductAttribute("I2P624_BrahyAdrien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("I2P624_BrahyAdrien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
