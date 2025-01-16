@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_10\\classes_liees\\ACT10_AdrienB_classesLiee\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAIwC8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwKMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:21:27.585Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Classes\\Livre.cs",
               "ViewState": "AgIAABQAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T09:23:13.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T09:23:13.926Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Classes\\Bibliotheque.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T09:23:25.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T09:23:25.97Z"
             }
           ]
         }

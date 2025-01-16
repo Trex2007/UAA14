@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ACT10_AdrienB_classesLiee")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ACT10_AdrienB_classesLieeV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1382b27df8afe88c94f85529c5d8db60da07f25b")]
-[assembly: System.Reflection.AssemblyProductAttribute("ACT10_AdrienB_classesLiee")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ACT10_AdrienB_classesLiee")]
+[assembly: System.Reflection.AssemblyProductAttribute("ACT10_AdrienB_classesLieeV2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ACT10_AdrienB_classesLieeV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
