@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I5_6TTIUAA14_AdrienB\\I5_6TTIUAA14_AdrienB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAA53C-C042-4D4B-A808-DD79F4DDA293}|I5_6TTIUAA14_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\i5_6ttiuaa14_adrienb\\i5_6ttiuaa14_adrienb\\class\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EAA53C-C042-4D4B-A808-DD79F4DDA293}|I5_6TTIUAA14_AdrienB.csproj|solutionrelative:class\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAA53C-C042-4D4B-A808-DD79F4DDA293}|I5_6TTIUAA14_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\i5_6ttiuaa14_adrienb\\i5_6ttiuaa14_adrienb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EAA53C-C042-4D4B-A808-DD79F4DDA293}|I5_6TTIUAA14_AdrienB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAA53C-C042-4D4B-A808-DD79F4DDA293}|I5_6TTIUAA14_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\i5_6ttiuaa14_adrienb\\i5_6ttiuaa14_adrienb\\class\\paintballgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EAA53C-C042-4D4B-A808-DD79F4DDA293}|I5_6TTIUAA14_AdrienB.csproj|solutionrelative:class\\paintballgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I5_6TTIUAA14_AdrienB\\I5_6TTIUAA14_AdrienB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I5_6TTIUAA14_AdrienB\\I5_6TTIUAA14_AdrienB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:38:45.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaintBallGun.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I5_6TTIUAA14_AdrienB\\I5_6TTIUAA14_AdrienB\\Class\\PaintBallGun.cs",
+              "RelativeDocumentMoniker": "Class\\PaintBallGun.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I5_6TTIUAA14_AdrienB\\I5_6TTIUAA14_AdrienB\\Class\\PaintBallGun.cs",
+              "RelativeToolTip": "Class\\PaintBallGun.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:42:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I5_6TTIUAA14_AdrienB\\I5_6TTIUAA14_AdrienB\\Class\\Joueur.cs",
+              "RelativeDocumentMoniker": "Class\\Joueur.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\I5_6TTIUAA14_AdrienB\\I5_6TTIUAA14_AdrienB\\Class\\Joueur.cs",
+              "RelativeToolTip": "Class\\Joueur.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:42:55.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

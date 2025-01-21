@@ -1,0 +1,15 @@
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\bin\Debug\net6.0\I5_6TTIUAA14_AdrienB.exe
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\bin\Debug\net6.0\I5_6TTIUAA14_AdrienB.deps.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\bin\Debug\net6.0\I5_6TTIUAA14_AdrienB.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\bin\Debug\net6.0\I5_6TTIUAA14_AdrienB.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\bin\Debug\net6.0\I5_6TTIUAA14_AdrienB.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.sourcelink.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\refint\I5_6TTIUAA14_AdrienB.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\I5_6TTIUAA14_AdrienB.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\I5_6TTIUAA14_AdrienB\I5_6TTIUAA14_AdrienB\obj\Debug\net6.0\ref\I5_6TTIUAA14_AdrienB.dll

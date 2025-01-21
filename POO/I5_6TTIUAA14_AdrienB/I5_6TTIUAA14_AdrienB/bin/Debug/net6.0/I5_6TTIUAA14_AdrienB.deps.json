@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I5_6TTIUAA14_AdrienB/1.0.0": {
+        "runtime": {
+          "I5_6TTIUAA14_AdrienB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I5_6TTIUAA14_AdrienB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
