@@ -1,0 +1,15 @@
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\bin\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.exe
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\bin\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.deps.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\bin\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.runtimeconfig.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\bin\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\bin\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.AssemblyInfoInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.AssemblyInfo.cs
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.csproj.CoreCompileInputs.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.sourcelink.json
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\refint\ACT11-ClassesLieeHeritage_AdrienB.dll
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.pdb
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ACT11-ClassesLieeHeritage_AdrienB.genruntimeconfig.cache
+C:\Users\TheRex\Desktop\ecole\cours\6TI\UAA14\POO\ACT_11\ACT11-ClassesLieeHeritage_AdrienB\obj\Debug\net8.0\ref\ACT11-ClassesLieeHeritage_AdrienB.dll

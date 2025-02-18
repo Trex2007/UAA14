@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\academie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\academie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\ecole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\ecole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_11\\act11-classeslieeheritage_adrienb\\classes\\infocours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B030D-863D-4A8F-9E82-F3BE46B9B3D3}|ACT11-ClassesLieeHeritage_AdrienB.csproj|solutionrelative:classes\\infocours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:44:00.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfoCours.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\InfoCours.cs",
+              "RelativeDocumentMoniker": "Classes\\InfoCours.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\InfoCours.cs",
+              "RelativeToolTip": "Classes\\InfoCours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:52:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Salle.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Salle.cs",
+              "RelativeDocumentMoniker": "Classes\\Salle.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Salle.cs",
+              "RelativeToolTip": "Classes\\Salle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:51:35.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Cours.cs",
+              "RelativeDocumentMoniker": "Classes\\Cours.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Cours.cs",
+              "RelativeToolTip": "Classes\\Cours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:51:17.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Personne.cs",
+              "RelativeDocumentMoniker": "Classes\\Personne.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Personne.cs",
+              "RelativeToolTip": "Classes\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:50:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Classes\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Etudiant.cs",
+              "RelativeToolTip": "Classes\\Etudiant.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:15:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enseignant.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Enseignant.cs",
+              "RelativeDocumentMoniker": "Classes\\Enseignant.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Enseignant.cs",
+              "RelativeToolTip": "Classes\\Enseignant.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:50:52.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Departement.cs",
+              "RelativeDocumentMoniker": "Classes\\Departement.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Departement.cs",
+              "RelativeToolTip": "Classes\\Departement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:50:07.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ecole.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Ecole.cs",
+              "RelativeDocumentMoniker": "Classes\\Ecole.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Ecole.cs",
+              "RelativeToolTip": "Classes\\Ecole.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:49:55.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Academie.cs",
+              "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Academie.cs",
+              "RelativeDocumentMoniker": "Classes\\Academie.cs",
+              "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_11\\ACT11-ClassesLieeHeritage_AdrienB\\Classes\\Academie.cs",
+              "RelativeToolTip": "Classes\\Academie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:49:45.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

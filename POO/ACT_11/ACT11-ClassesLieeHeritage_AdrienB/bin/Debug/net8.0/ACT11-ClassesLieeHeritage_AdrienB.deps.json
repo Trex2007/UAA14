@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ACT11-ClassesLieeHeritage_AdrienB/1.0.0": {
+        "runtime": {
+          "ACT11-ClassesLieeHeritage_AdrienB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT11-ClassesLieeHeritage_AdrienB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

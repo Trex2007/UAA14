@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_10\\classes_liees\\ACT10_AdrienB_classesLieeV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_10\\classes_liees\\act10_adrienb_classeslieev2\\classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|solutionrelative:classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_10\\classes_liees\\act10_adrienb_classeslieev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_10\\classes_liees\\act10_adrienb_classeslieev2\\classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|solutionrelative:classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_10\\classes_liees\\act10_adrienb_classeslieev2\\classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|solutionrelative:classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81461BA3-BDC2-487F-8F74-21E02083F597}|ACT10_AdrienB_classesLieeV2.csproj|c:\\users\\therex\\desktop\\ecole\\cours\\6ti\\uaa14\\poo\\act_10\\classes_liees\\act10_adrienb_classeslieev2\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_10\\classes_liees\\ACT10_AdrienB_classesLieeV2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -56,12 +56,11 @@
               "RelativeToolTip": "Classes\\Bibliotheque.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvwoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:37:51.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:37:51.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Emprunt.cs",
               "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_10\\classes_liees\\ACT10_AdrienB_classesLieeV2\\Classes\\Emprunt.cs",
               "RelativeDocumentMoniker": "Classes\\Emprunt.cs",
@@ -69,25 +68,24 @@
               "RelativeToolTip": "Classes\\Emprunt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:39:21.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:39:21.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Abonne.cs",
               "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_10\\classes_liees\\ACT10_AdrienB_classesLieeV2\\Classes\\Abonne.cs",
               "RelativeDocumentMoniker": "Classes\\Abonne.cs",
               "ToolTip": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_10\\classes_liees\\ACT10_AdrienB_classesLieeV2\\Classes\\Abonne.cs",
               "RelativeToolTip": "Classes\\Abonne.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T12:38:36.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Livre.cs",
               "DocumentMoniker": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_10\\classes_liees\\ACT10_AdrienB_classesLieeV2\\Classes\\Livre.cs",
               "RelativeDocumentMoniker": "Classes\\Livre.cs",
@@ -95,8 +93,7 @@
               "RelativeToolTip": "Classes\\Livre.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAUwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:38:04.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:38:04.413Z"
             }
           ]
         }

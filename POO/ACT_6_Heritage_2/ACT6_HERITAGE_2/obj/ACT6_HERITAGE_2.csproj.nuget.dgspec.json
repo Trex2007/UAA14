@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Trex_r4Kids\\Desktop\\ACT6\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj": {}
+    "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage_2\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Trex_r4Kids\\Desktop\\ACT6\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj": {
+    "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage_2\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Trex_r4Kids\\Desktop\\ACT6\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj",
+        "projectUniqueName": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage_2\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj",
         "projectName": "ACT6_HERITAGE_2",
-        "projectPath": "C:\\Users\\Trex_r4Kids\\Desktop\\ACT6\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj",
-        "packagesPath": "C:\\Users\\Trex_r4Kids\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Trex_r4Kids\\Desktop\\ACT6\\ACT6_HERITAGE_2\\obj\\",
+        "projectPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage_2\\ACT6_HERITAGE_2\\ACT6_HERITAGE_2.csproj",
+        "packagesPath": "C:\\Users\\TheRex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TheRex\\Desktop\\ecole\\cours\\6TI\\UAA14\\POO\\ACT_6_Heritage_2\\ACT6_HERITAGE_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Trex_r4Kids\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TheRex\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
