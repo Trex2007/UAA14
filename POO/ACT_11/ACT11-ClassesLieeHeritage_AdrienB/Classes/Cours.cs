@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
 {
@@ -12,24 +10,28 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
         private Salle _salle;
         private List<double> _listeNotes;
 
-        public Cours(string Nom, Salle Salle, List<double> ListeNotes)
+        public Cours(string nom, Salle salle, List<double> notes)
         {
-            _nom = Nom;
-            _salle = Salle;
-            _listeNotes = ListeNotes;
+            _nom = nom;
+            _salle = salle;
+            _listeNotes = notes ?? new List<double>();
         }
 
-        public string Nom
+        public string Nom => _nom;
+        public Salle Salle => _salle;
+        public List<double> ListeNotes => _listeNotes;
+
+        public void AjouterNote(double note)
         {
-            get { return _nom; }
+            _listeNotes.Add(note);
         }
-        public Salle Salle
+
+        public double CalculerMoyenneCours()
         {
-            get { return _salle; }
-        }
-        public List<double> ListeNotes
-        {
-            get { return _listeNotes; }
+            if (_listeNotes.Count == 0)
+                return 0; // Retourne 0 si pas de notes pour éviter la division par zéro
+
+            return _listeNotes.Average();
         }
     }
 }

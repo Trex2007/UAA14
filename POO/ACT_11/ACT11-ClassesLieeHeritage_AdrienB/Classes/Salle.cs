@@ -17,13 +17,8 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
             _nombrePlaces = NombrePlaces;
         }
 
-        public string Nom
-        {
-            get { return _nom; }
-        }
-        public int NombrePlaces
-        {
-            get { return _nombrePlaces; }
-        }
+        public string Nom => _nom;
+        public int NombrePlaces => _nombrePlaces;
     }
+
 }

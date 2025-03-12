@@ -13,29 +13,37 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
         private List<Salle> _listeSalles;
         private List<Departement> _listeDepartements;
 
-        public Ecole(string CodeEcole, string SiteInternet, List<Salle> ListeSalles, List<Departement> ListeDepartements)
+        public Ecole(string codeEcole, string siteInternet, List<Salle> salles, List<Departement> departements)
         {
-            _codeEcole = CodeEcole;
-            _siteInternet = SiteInternet;
-            _listeSalles = ListeSalles;
-            _listeDepartements = ListeDepartements;
+            _codeEcole = codeEcole;
+            _siteInternet = siteInternet;
+            _listeSalles = salles;
+            _listeDepartements = departements;
         }
 
-        public string CodeEcole
+
+        public string CodeEcole => _codeEcole;
+        public string SiteInternet => _siteInternet;
+        public List<Salle> ListeSalles => _listeSalles;
+        public List<Departement> ListeDepartements => _listeDepartements;
+
+        public void AjouterSalle(Salle salle)
         {
-            get { return _codeEcole; }
+            _listeSalles.Add(salle);
         }
-        public string SiteInternet
+
+        public void AjouterDepartement(Departement departement)
         {
-            get { return _siteInternet; } 
+            _listeDepartements.Add(departement);
         }
-        public List<Salle> ListeSalles
+
+        public string AfficherDepartements()
         {
-            get { return _listeSalles; }
-        }
-        public List<Departement> ListeDepartements
-        {
-            get { return _listeDepartements; }
+            if (_listeDepartements.Count == 0)
+                return "Aucun département.";
+
+            return string.Join(", ", _listeDepartements.Select(d => d.Nom));
         }
     }
+
 }

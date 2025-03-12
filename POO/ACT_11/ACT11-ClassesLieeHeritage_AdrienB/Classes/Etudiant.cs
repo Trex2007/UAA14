@@ -12,25 +12,40 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
         private List<InfoCours> _listCours;
 
         public Etudiant(string Nom, string Prenom, string Email, string Telephone, int AnneeEntree, List<InfoCours> ListCours) : base(Nom, Prenom, Email, Telephone)
+
         {
             _anneeEntree = AnneeEntree;
-            _listCours = ListCours;
-            _nom = Nom;
-            _prenom = Prenom;
-            _email = Email;
-            _telephone = Telephone;
+            _listCours = new List<InfoCours>(); // Initialise une liste vide
         }
 
-        public int AnneeEntree
+        public int AnneeEntree => _anneeEntree;
+        public List<InfoCours> ListCours => _listCours;
+
+        public void AjouterInfoCours(Cours cours, double note)
         {
-            get { return _anneeEntree; }
+            _listCours.Add(new InfoCours(cours, note));
         }
-        public List<InfoCours> ListCours
+
+        public double CalculerMoyenneGenerale()
         {
-            get { return _listCours; }
+            if (_listCours.Count == 0)
+                return 0; // Évite la division par zéro
+
+            return _listCours.Average(info => info.note);
         }
 
-        public override string Infos() { return "test"; }
+        public string AfficherMatieresNotees()
+        {
+            if (_listCours.Count == 0)
+                return "Aucune matière notée.";
 
+            return string.Join(", ", _listCours.Select(info => info.cours.Nom));
+        }
+
+        public override string Infos()
+        {
+            return $"Étudiant : {Nom} {Prenom}, Email : {Email}, Téléphone : {Telephone}, Année d'entrée : {AnneeEntree}";
+        }
     }
+
 }

@@ -13,18 +13,20 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
         protected string _email;
         protected string _telephone;
 
-        public Personne (string Nom, string Prenom, string Email, string Telephone)
+        public Personne(string Nom, string Prenom, string Email, string Telephone)
         {
             _nom = Nom;
             _prenom = Prenom;
             _email = Email;
             _telephone = Telephone;
         }
-        public string Nom { get { return _nom; } }
-        public string Prenom { get { return _prenom; } }
-        public string Email { get { return _email; } }
-        public string Telephone { get { return _telephone; } }
+
+        public string Nom => _nom;
+        public string Prenom => _prenom;
+        public string Email => _email;
+        public string Telephone => _telephone;
 
         public abstract string Infos();
     }
+
 }

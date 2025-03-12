@@ -10,32 +10,29 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
     {
         private DateTime _datePriseFonction;
         private string _matiere;
-        private List<InfoCours> _listCours;
+        private List<InfoCours> _listCours; // Doit contenir les cours et non InfoCours
 
-        public Enseignant(string Nom, string Prenom, string Email, string Telephone, DateTime DatePriseFonction, string Matiere, List<InfoCours> ListCours) : base(Nom, Prenom, Email, Telephone)
+        public Enseignant(string nom, string prenom, string email, string telephone, DateTime dateEmbauche, string matiere, List<InfoCours> ListeCours)
+    : base(nom, prenom, email, telephone)
         {
-            _datePriseFonction = DatePriseFonction;
-            _matiere = Matiere;
-            _listCours = ListCours;
-            _nom = Nom;
-            _prenom = Prenom;
-            _email = Email;
-            _telephone = Telephone;
+            _datePriseFonction = dateEmbauche;
+            _matiere = matiere;
+            _listCours = ListeCours;
         }
 
-        public DateTime DatePriseFonction
+
+        public DateTime DatePriseFonction => _datePriseFonction;
+        public string Matiere => _matiere;
+        public List<InfoCours> ListCours => _listCours;
+
+        public void AjouterCours(InfoCours cours)
         {
-            get { return _datePriseFonction; }
-        }
-        public string Matiere
-        {
-            get { return _matiere; }
-        }
-        public List<InfoCours> ListCours
-        {
-            get { return _listCours; }
+            _listCours.Add(cours);
         }
 
-        public override string Infos() { return "test"; }
+        public override string Infos()
+        {
+            return $"Enseignant : {Nom} {Prenom}, Email : {Email}, Téléphone : {Telephone}, Matière : {Matiere}, Date de prise de fonction : {DatePriseFonction.ToShortDateString()}";
+        }
     }
 }

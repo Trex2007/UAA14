@@ -10,26 +10,31 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
     {
         private string _nom;
         private string _matiere;
-        private List<Enseignant> _listeEnseignant;
+        private List<Enseignant> _listeEnseignants;
 
-        public Departement(string Nom, string Matiere, List<Enseignant> ListeEnseignant)
+        public Departement(string nom, string matiere, List<Enseignant> listeEnseignants)
         {
-            _nom = Nom;
-            _matiere = Matiere;
-            _listeEnseignant = ListeEnseignant;
+            _nom = nom;
+            _matiere = matiere;
+            _listeEnseignants = listeEnseignants;
         }
 
-        public string Nom
+        public string Nom => _nom;
+        public string Matiere => _matiere;
+        public List<Enseignant> ListeEnseignants => _listeEnseignants;
+
+        public void AjouterEnseignant(Enseignant enseignant)
         {
-            get { return _nom; }
+            _listeEnseignants.Add(enseignant);
         }
-        public string Matiere
+
+        public string AfficherEnseignants()
         {
-            get { return _matiere; }
-        }
-        public List<Enseignant> ListeEnseignant
-        {
-            get { return _listeEnseignant; }
+            if (_listeEnseignants.Count == 0)
+                return "Aucun enseignant.";
+
+            return string.Join(", ", _listeEnseignants.Select(e => e.Nom + " " + e.Prenom));
         }
     }
+
 }

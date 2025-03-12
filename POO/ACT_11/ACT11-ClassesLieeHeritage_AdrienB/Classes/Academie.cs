@@ -11,19 +11,27 @@ namespace ACT11_ClassesLieeHeritage_AdrienB.Classes
         private string _nom;
         private List<Ecole> _listeEcoles;
 
-        public Academie(string Nom, List<Ecole> ListeEcoles)
+        public Academie(string nom, List<Ecole> ecoles)
         {
-            _nom = Nom;
-            _listeEcoles = ListeEcoles;
+            _nom = nom;
+            _listeEcoles = ecoles;
         }
 
-        public string Nom
+        public string Nom => _nom;
+        public List<Ecole> ListeEcoles => _listeEcoles;
+
+        public void AjouterEcole(Ecole ecole)
         {
-            get { return _nom; }
+            _listeEcoles.Add(ecole);
         }
-        public List<Ecole> ListeEcoles
+
+        public string AfficherEcoles()
         {
-            get { return _listeEcoles; }
+            if (_listeEcoles.Count == 0)
+                return "Aucune école.";
+
+            return string.Join(", ", _listeEcoles.Select(e => e.CodeEcole));
         }
     }
+
 }
